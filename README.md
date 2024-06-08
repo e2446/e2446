@@ -1,10 +1,9 @@
 ### Hi there 👋
-### KONICHIWA 👋
-### The name is 3LJ0HN 41IH👋
-### My hobbies?🤔 
-### 1. Playing Online Games
-### 2. Playing Online Games
-### 3. Playing Online Games
+###  👋
+### name is 3LJ0HN 41IH👋
+###
+
+
 ### HAHAHAHA 
 
 
