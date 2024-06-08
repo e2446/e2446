@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###  👋
-### name is 3LJ0HN 41IH👋
+### 3LJ0HN 41IH👋
 ###
 
 
