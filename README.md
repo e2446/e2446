@@ -5,6 +5,15 @@
 
 
 ### HAHAHAHA 
+---
+
+### ✨ Fun Extras:
+
+- **Favorite Emoji**: 😄
+- **Coding Music**: 🎧 [Spotify Playlist](https://open.spotify.com)
+- **Quote I live by**: "_[Inspirational quote]_"
+
+---
 
 
 
