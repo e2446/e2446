@@ -1,7 +1,9 @@
-### ADalsdkhqwe?👋
-###  👋
-### 3LJ0HN 41IH👋
-###
+# Hi there! I'm 41IH 👋
+![Welcome Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+---
+
+### 🚀 Welcome to my GitHub profile!
 
 
 ### HAHAHAHA 
