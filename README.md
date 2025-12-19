@@ -44,7 +44,33 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=41IH&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=41IH&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=41IH&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=41IH&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
 ## 📌 Featured Projects
+
 - 🚗 **RFID Vehicle System**
 - 🏥 **Clinic / Management Systems**
 - 🤖 **PLC – HMI Automation Projects**
@@ -64,7 +90,7 @@
 
 ## 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://github.com/41IH">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"/>
   </a>
